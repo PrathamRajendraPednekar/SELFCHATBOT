@@ -2,7 +2,7 @@ scikit-learn
 pandas
 numpy
 
-To install this library must go to terminal of vs code and type :-
-"pip install scikit-learn"
-"pip install pandas"
-"pip install numpy"
+ To install this library must go to terminal of vs code and type :-
+  - "pip install scikit-learn"
+  - "pip install pandas"
+  - "pip install numpy"
