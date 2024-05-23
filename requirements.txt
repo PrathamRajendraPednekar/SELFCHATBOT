@@ -1,15 +1,15 @@
-scikit-learn
-pandas
-numpy
+Scikit-learn
+Pandas
+Numpy
 
 Steps to run the code :- 
 
- step 1 :- First install this libraries, go to terminal of vs code and type :-
+ Step 1 :- First install this libraries, go to terminal of vs code and type :-
   - "pip install scikit-learn"
   - "pip install pandas"
   - "pip install numpy"
 
 Step 2 :- run the code 
-step 3 :- After running the code it will show us the terminal type there "streamlit run app.py"
+Step 3 :- After running the code it will show us the terminal type there "streamlit run app.py"
           (streamlit gives us a Interface to are chatbot to communicate with us)
-step 4 :- After that put your '.csv' file same like i have made(qna.csv) , then type your question it will give the answer from your '.csv' file. 
+Step 4 :- After that put your '.csv' file same like i have made(qna.csv) , then type your question it will give the answer from your '.csv' file. 
