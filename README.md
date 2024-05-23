@@ -1,4 +1,4 @@
-# Question Answering System
+# SELFCHATBOT
 This chatbot works on question answering system . give him a database of '.csv' file with two columns , one column of questions and second is all answers.
 This chatbot is designed to provide quick and accurate responses to user inquiries by leveraging a database of predefined questions and answers. It's particularly useful in scenarios where users frequently have similar questions and need reliable information instantly. Here's how it can be beneficial:
 
