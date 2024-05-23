@@ -3,8 +3,8 @@
 This chatbot works on question answering system . give him a database of '.csv' file with two columns , one column of questions and second is of all answers.
 This chatbot is designed to provide quick and accurate responses to user inquiries by leveraging a database of predefined questions and answers. It's particularly useful in scenarios where users frequently have similar questions and need reliable information instantly. Here's how it can be beneficial:
 
-  Efficiency and Convenience: Users can get answers to their questions without having to browse through extensive documentation or wait for human support. This     
-                              reduces wait times and improves user satisfaction.
+-Efficiency and Convenience: Users can get answers to their questions without having to browse through extensive documentation or wait for human support. This
+                             reduces wait times and improves user satisfaction.
 
 -Consistency: The chatbot provides consistent answers based on the information in the uploaded CSV file. This ensures that all users receive the same accurate 
               information, which is particularly important in customer support, educational platforms, and internal company knowledge bases.
