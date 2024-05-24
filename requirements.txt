@@ -8,7 +8,7 @@ Steps to run the code :-
   - "pip install scikit-learn"
   - "pip install pandas"
   - "pip install numpy"
-
+Step 2 :- install streamlit on vscode ,to do this go on terminal in vscode and then type their "pip install streamlit" 
 Step 2 :- run the code 
 Step 3 :- After running the code it will show us the terminal type there "streamlit run app.py"
           (streamlit gives us a Interface to are chatbot to communicate with us)
